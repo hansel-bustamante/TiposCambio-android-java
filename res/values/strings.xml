@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="titulo">Conversor de Monedas</string>
+    <string name="hint_bolivianos">Ingrese el monto en bolivianos</string>
+    <string name="dolares">Dólares</string>
+    <string name="yenes">Yenes</string>
+    <string name="wones">Wones</string>
+    <string name="chilenos">Pesos Chilenos</string>
+    <string name="euros">Euros</string>
+    <string name="yuanes">Yuanes</string>
+    <string name="reales">Reales</string>
+    <string name="libras">Libras</string>
+    <string name="rupias">Rupias</string>
+    <string name="francos">Francos</string>
+    <string name="default_value">0.00</string>
+    <string name="btn_convertir">Convertir</string>
+    <string name="btn_limpiar">Limpiar</string>
+    <string name="descrip_dolares">Icono de Dólares</string>
+    <string name="descrip_yenes">Icono de Yenes</string>
+    <string name="descrip_wones">Icono de Wones</string>
+    <string name="descrip_chilenos">Icono de Pesos Chilenos</string>
+    <string name="descrip_euros">Icono de Euros</string>
+    <string name="descrip_yuanes">Icono de Yuanes</string>
+    <string name="descrip_reales">Icono de Reales</string>
+    <string name="descrip_libras">Icono de Libras</string>
+    <string name="descrip_rupias">Icono de Rupias</string>
+    <string name="descrip_francos">Icono de Francos</string>
+
+</resources>
